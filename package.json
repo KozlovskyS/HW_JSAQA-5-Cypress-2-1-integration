@@ -1,0 +1,19 @@
+{
+  "name": "hw_jsaqa-5-cypress-2-1-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key ed618f09-0e50-4ce9-975d-665907fb8fce"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.4.1",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0"
+  }
+}
